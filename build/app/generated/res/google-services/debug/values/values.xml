@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">496739132512-qtc9le1dgrsenbn3c02d0a33snj003i0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">496739132512</string>
+    <string name="google_api_key" translatable="false">AIzaSyDLv_bru0UG8pvxuDLfsK_k1HPAJV57-Ns</string>
+    <string name="google_app_id" translatable="false">1:496739132512:android:ef045bc01b481aadc64f05</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDLv_bru0UG8pvxuDLfsK_k1HPAJV57-Ns</string>
+    <string name="google_storage_bucket" translatable="false">tinderlikeapp-61db1.appspot.com</string>
+    <string name="project_id" translatable="false">tinderlikeapp-61db1</string>
+</resources>
